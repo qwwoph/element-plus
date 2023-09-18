@@ -7,7 +7,6 @@
           :data="data"
           :width="width"
           :height="height"
-          fixed
         />
       </template>
     </el-auto-resizer>
